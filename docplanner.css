@@ -1,0 +1,67 @@
+.navbar ul {
+    display: flex;
+    justify-content: space-between;
+    background-color: hsla(hue, saturation, lightness, alpha);
+    list-style: none;
+    text-align: right;
+    margin: 5px;
+    padding: 5px;
+    }
+    .navbar li {
+        display: inline;
+    } 
+    .navbar a {
+        display: block;
+        width: 100px;
+        padding: 25px 20px;
+        font-size: 15px;
+        
+    }  
+    
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+
+}
+
+h3 {
+text-align: center;
+font-size: 2.125rem;
+color: #00b39b;
+font-weight: 300;
+font-family: sans-serif;
+font-style: unset;
+}
+
+.grid{
+    color: #747474;
+    justify-content: center;
+    font-size: 16px;
+    font-family: Arial,sans-serif;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
